@@ -2,7 +2,7 @@
 
 ### Hi, I'm Akhil 
 
-I’m an an experienced Programmer with a demonstrated history of working in the information technology products and services industry. Strong affinity towards UI/UX design and front-end development. Loves JavaScript. Passionate about Photography. Engineering professional with a B.Tech focused in Computer Science from Cochin University of Science and Technology.
+An experienced Programmer with a demonstrated history of working in the information technology products and services industry. Strong affinity towards UI/UX design and front-end development. Loves JavaScript. Passionate about Photography. Engineering professional with a B.Tech focused in Computer Science from Cochin University of Science and Technology.
 
 - 📱  I’m currently working on one of my personal project, to build my photography portfolio AIO system.
 - 🤓 I’m currently learning Flutter, bit of Vue JS and advanced CSS.
